@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\bin\Debug\net8.0\PizzaShop.exe
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\bin\Debug\net8.0\PizzaShop.deps.json
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\bin\Debug\net8.0\PizzaShop.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\bin\Debug\net8.0\PizzaShop.dll
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\bin\Debug\net8.0\PizzaShop.pdb
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.dll
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\refint\PizzaShop.dll
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.pdb
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\PizzaShop.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Assignment6\PizzaShop\obj\Debug\net8.0\ref\PizzaShop.dll
